@@ -63,7 +63,7 @@ function M.show()
     return
   end
 
-  local renderer = require 'cheatsheet.ui.draw'
+  local renderer = require 'cheatsheet.ui.render'
   local mapper = require 'cheatsheet.mappings'
 
   -- Save previous buffer ID
