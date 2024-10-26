@@ -1,4 +1,4 @@
-* [-] README
+* [x] README
 * [-] Types for everything
 * [-] Docs for everything
 * [-] Clean up opts
